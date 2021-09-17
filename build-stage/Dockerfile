@@ -1,4 +1,4 @@
-FROM        denismakogon/ffmpeg-alpine:4.0-dependencies AS build-stage
+FROM        resonatecoop/ffmpeg-alpine:4.0-dependencies AS build-stage
 FROM        alpine:3.14
 WORKDIR     /tmp/workdir
 
