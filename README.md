@@ -1,11 +1,11 @@
-# FFMPEG Linux Alpine 3.7 Docker images
+# FFMPEG Linux Alpine 3.14 Docker images
 
 These images were heavily inspired by [this image](https://hub.docker.com/r/jrottenberg/ffmpeg/).
 However with a lot changes like:
 
  - no more single Dockerfile (3 image layers: dependencies, build-stage, runtime)
  - no more forced multi-stage builds except those cases when final stage is vanilla operating system
- - alpine 3.7
+ - alpine 3.14
  - ffmpeg 4.0 by default
 
 ## Dependencies

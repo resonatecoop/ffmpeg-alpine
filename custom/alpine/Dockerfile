@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.14
 
 LABEL maintainer="Denis Makogon. mail: lildee1991@gmail.com"
 
