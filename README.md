@@ -1,3 +1,7 @@
+> 🛠 **Status: Maintenance Mode | Stable**
+>
+> This project is currently in [maintenance mode](https://en.wikipedia.org/wiki/Maintenance_mode) - users should feel free to continue to use this app and expect bug fixes, but not expect many additional features.
+
 # FFMPEG Linux Alpine 3.14 Docker images
 
 These images were heavily inspired by [this image](https://hub.docker.com/r/jrottenberg/ffmpeg/).
